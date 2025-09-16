@@ -14,9 +14,9 @@ A GRUB theme based on the main menu of the 2014 survival horror game Alien: Isol
     # cp -r /path/to/space-isolation /boot/grub/themes
     ```
 4. Edit `/etc/default/grub` (as a superuser)
-    1. Set `GRUB_THEME=` TO `/boot/grub/themes/space-isolation/theme.txt`
-    2. Make sure `GRUB_TERMINAL_OUTPUT="gfxterm"`
-    3. Set `GRUB_GFXMODE=` to your resolution (e.g. `1920x1080`) and uncomment it 
+    - Set `GRUB_THEME=` TO `/boot/grub/themes/space-isolation/theme.txt`
+    - Make sure `GRUB_TERMINAL_OUTPUT="gfxterm"`
+    - Set `GRUB_GFXMODE=` to your resolution (e.g. `1920x1080`) and uncomment it 
 5. Update GRUB
     - Arch Linux
         ```
