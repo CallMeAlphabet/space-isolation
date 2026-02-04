@@ -12,8 +12,8 @@ terminal-height: "100%"
 terminal-border: "0"
 
 + boot_menu {
-  left = 7%+3
-  top = 86%-161
+  left = 50%-300
+  top = 50%-72
   width = 600
   height = 143
   item_height = 32
