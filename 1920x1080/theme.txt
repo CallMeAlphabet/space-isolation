@@ -1,5 +1,5 @@
 title-text: ""
-desktop-image: "background.jpg"
+desktop-image: "background.png"
 desktop-image-scale-method: "padding"
 desktop-image-h-align: "center"
 desktop-color: "#000000"
